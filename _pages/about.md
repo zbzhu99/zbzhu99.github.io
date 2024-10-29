@@ -8,12 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at Sichuan University in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. Since October 2024, I have been a visiting scholar in [Prof. Lin Shao](https://linsats.github.io/)'s Lab at the National University of Singapore.
+I am a fourth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at [Sichuan University](https://en.scu.edu.cn/) in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. Since October 2024, I have been a visiting scholar in [Prof. Lin Shao](https://linsats.github.io/)'s Lab at the National University of Singapore.
 
 
 # Selected Publications (Full list can be found [here](/publications))
 
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
 <b>Zhengbang Zhu</b>, Minghuan Liu, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
-<i>NeurIPS 2024</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
+<b>NeurIPS 2024</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
 <br>
+
+<b>RITA: Boost Driving Simulators with Realistic Interactive Traffic Flow</b> <br>
+<b>Zhengbang Zhu*</b>, Shenyu Zhang*, Yuzheng Zhuang*, Yuecheng Liu, Minghuan Liu, Liyuan Mao, Ziqing Gong, Shixiong Kai, Qiang Gu, Bin Wang, Siyuan Cheng, Xinyu Wang, Jianye Hao, Yong Yu. <br>
+<b>DAI 2023</b>. <font color="red"><em><strong>(Best Student Paper Award)</strong></em></font>. [<a href="https://arxiv.org/abs/2211.03408">paper</a>]
+<br>
+
+<b>Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems</b> <br>
+<b>Zhengbang Zhu</b>, Rongjun Qin, Junjie Huang, Xinyi Dai, Yang Yu, Yong Yu, Weinan Zhang. <br>
+<b>ACM Transactions on Information Systems 2024</b> [<a href="https://arxiv.org/abs/2210.05662">paper</a>]
+
+<!-- <b>SMARTS: Scalable Multi-agent Reinforcement Learning Training School for Autonomous Driving</b> <br>
+Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Aurora Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Dong Chen, <b>Zhengbang Zhu</b>, Nhat Nguyen, Mohamed Elsayed, Kun Shao, Sanjeevan Ahilan, Baokuan Zhang, Jiannan Wu, Zhengang Fu, Kasra Rezaee, Peyman Yadmellat, Mohsen Rohani, Nicolas Perez Nieves, Yihan Ni, Seyedershad Banijamali, Alexander Cowen Rivers, Zheng Tian, Daniel Palenicek, Hongbo Zhang, Wulong Liu, Jianye Hao, Jun Wang.
+<br> -->
