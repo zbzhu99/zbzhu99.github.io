@@ -16,12 +16,12 @@ Guanghe Li, Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Weinan Zhang. <br>
 <br>
 
 <b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
-Yixiang Shan, Zhengbang Zhu, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
+Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
 <b>arXiv Preprint</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
 <br>
 
 <b>Diffusion Models for Reinforcement Learning: A Survey</b> <br>
-Zhengbang Zhu, Hanye Zhao, Haoran He, Yichao Zhong, Shenyu Zhang, Haoquan Guo, Tingting Chen, Weinan Zhang. <br>
+<b>Zhengbang Zhu</b>, Hanye Zhao, Haoran He, Yichao Zhong, Shenyu Zhang, Haoquan Guo, Tingting Chen, Weinan Zhang. <br>
 <b>arXiv Preprint</b>. [<a href="https://arxiv.org/abs/2311.01223">paper</a>]
 <br>
 
