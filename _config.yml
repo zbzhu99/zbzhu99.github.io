@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student, Computer Science Department, Shanghai Jiaotong University"
   location         : "Shanghai, China"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "zbzhu.yz@outlook.com" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0005-9310-3598"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
