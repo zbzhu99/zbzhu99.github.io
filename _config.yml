@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhengbang Zhu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhengbang Zhu"
+description              : &description "Ph.D. student, Computer Science Department, Shanghai Jiao Tong University"
+url                      : https://zbzhu99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zbzhu99/zbzhu99.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhengbang Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D student, Computer Science Department, Shanghai Jiaotong University"
+  location         : "Shanghai, China"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zbzhu.yz@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ozatRA0AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0005-9310-3598"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "zbzhu99"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -127,7 +127,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
 twitter:
   username               : &twitter
@@ -143,13 +142,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
 
 # Reading Files
 include:
@@ -189,14 +186,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -208,7 +203,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # These settings control the types of collections used by the template
 collections:
@@ -224,7 +218,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -282,19 +275,16 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -311,7 +301,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
 
 # Archives
 #  Type
@@ -340,7 +329,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
