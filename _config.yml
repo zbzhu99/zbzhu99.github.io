@@ -144,14 +144,18 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/publications.md
+  - _pages/about.md
+  - _pages/404.md
+  - _pages/terms.md
+  - _pages/*.html
   - files
 exclude:
   - "*.sublime-project"
@@ -284,7 +288,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
