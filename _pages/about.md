@@ -37,4 +37,4 @@ Minghuan Liu, <b>Zhengbang Zhu</b>, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yo
 - Reviewer for ICML 2024, NeurIPS 2024 (Top Reviewer), ICLR 2025, ICRA 2025
 - Reviewer for TPAMI, TETCI
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r81tKg7CKp4kEP7sO3F-QiylAUyxHJ13DTud5OB1yGQ&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r81tKg7CKp4kEP7sO3F-QiylAUyxHJ13DTud5OB1yGQ&cl=ffffff&w=300"></script>
