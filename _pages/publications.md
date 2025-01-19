@@ -26,7 +26,7 @@ Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zha
 <br>
 
 <b>RITA: Boost Driving Simulators with Realistic Interactive Traffic Flow</b> <br>
-<b>Zhengbang Zhu\*</b>, Shenyu Zhang*, Yuzheng Zhuang*, Yuecheng Liu, Minghuan Liu, Liyuan Mao, Ziqing Gong, Shixiong Kai, Qiang Gu, Bin Wang, Siyuan Cheng, Xinyu Wang, Jianye Hao, Yong Yu. <br>
+<b>Zhengbang Zhu\*</b>, Shenyu Zhang\*, Yuzheng Zhuang\*, Yuecheng Liu, Minghuan Liu, Liyuan Mao, Ziqing Gong, Shixiong Kai, Qiang Gu, Bin Wang, Siyuan Cheng, Xinyu Wang, Jianye Hao, Yong Yu. <br>
 <b>DAI 2023</b>. <font color="red"><em><strong>(Best Student Paper Award)</strong></em></font>. [<a href="https://arxiv.org/abs/2211.03408">paper</a>]
 <br>
 
