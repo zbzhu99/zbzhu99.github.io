@@ -17,7 +17,7 @@ Guanghe Li, Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Weinan Zhang. <br>
 
 <b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
 Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
-<b>arXiv Preprint</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
+<b>ICLR 2025</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
 <br>
 
 <b>Diffusion Models for Reinforcement Learning: A Survey</b> <br>

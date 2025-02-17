@@ -28,6 +28,11 @@ I am a fourth-year PhD student in the Department of Computer Science and Enginee
 <b>ACM Transactions on Information Systems (TOIS) 2024</b>. [<a href="https://arxiv.org/abs/2210.05662">paper</a>]
 <br>
 
+<b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
+Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
+<b>ICLR 2025</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
+<br>
+
 <b>Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization</b> <br>
 Minghuan Liu, <b>Zhengbang Zhu</b>, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang. <br>
 <b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
