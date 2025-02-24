@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations</b> <br>
+Jingxiao Chen\*, Xinyao Li\*, Jiahang Cao\*, and <b>Zhengbang Zhu</b>, Wentao Dong, Minghuan Liu, Ying Wen, Yong Yu, Liqing Zhang, Weinan Zhang. <br>
+<b>arXiv Preprint</b>. [<a href="http://arxiv.org/abs/2502.13134">paper</a>] [<a href="https://github.com/TimerChen/RHINO">code</a>] [<a href="https://humanoid-interaction.github.io">website</a>]
+
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
 <b>Zhengbang Zhu</b>, Minghuan Liu, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
 <b>NeurIPS 2024</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
@@ -37,7 +41,7 @@ Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zha
 
 <b>Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization</b> <br>
 Minghuan Liu, <b>Zhengbang Zhu</b>, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang. <br>
-<b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
+<b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">website</a>]
 <br>
 
 <b>SMARTS: Scalable Multi-agent Reinforcement Learning Training School for Autonomous Driving</b> <br>
