@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at [Sichuan University](https://en.scu.edu.cn/) in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. Since October 2024, I have been a visiting scholar in [Prof. Lin Shao](https://linsats.github.io/)'s Lab at [National University of Singapore](https://nus.edu.sg/).
+I am a fourth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at [Sichuan University](https://en.scu.edu.cn/) in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. 
 
 
 # Selected Publications (Full list can be found [here](/publications))
