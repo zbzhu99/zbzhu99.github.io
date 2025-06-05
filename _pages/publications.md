@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations</b> <br>
-Jingxiao Chen\*, Xinyao Li\*, Jiahang Cao\*, and <b>Zhengbang Zhu</b>, Wentao Dong, Minghuan Liu, Ying Wen, Yong Yu, Liqing Zhang, Weinan Zhang. <br>
+Jingxiao Chen\*, Xinyao Li\*, Jiahang Cao\*, <b>Zhengbang Zhu</b>, Wentao Dong, Minghuan Liu, Ying Wen, Yong Yu, Liqing Zhang, Weinan Zhang. <br>
 <b>arXiv Preprint</b>. [<a href="http://arxiv.org/abs/2502.13134">paper</a>] [<a href="https://github.com/TimerChen/RHINO">code</a>] [<a href="https://humanoid-interaction.github.io">website</a>]
 
 <b>Reconstruction-Guided Policy: Enhancing Decision-Making through Agent-Wise State Consistency</b> <br>
