@@ -9,6 +9,16 @@ author_profile: true
 Jingxiao Chen\*, Xinyao Li\*, Jiahang Cao\*, and <b>Zhengbang Zhu</b>, Wentao Dong, Minghuan Liu, Ying Wen, Yong Yu, Liqing Zhang, Weinan Zhang. <br>
 <b>arXiv Preprint</b>. [<a href="http://arxiv.org/abs/2502.13134">paper</a>] [<a href="https://github.com/TimerChen/RHINO">code</a>] [<a href="https://humanoid-interaction.github.io">website</a>]
 
+<b>Reconstruction-Guided Policy: Enhancing Decision-Making through Agent-Wise State Consistency</b> <br>
+Liang Qifan, Yixiang Shan, Haipeng Liu, <b>Zhengbang Zhu</b>, Ting Long, Weinan Zhang, Yuan Tian. <br>
+<b>ICLR 2025</b>. [<a href="https://openreview.net/forum?id=Y8L5RB4GWb">paper</a>]
+<br>
+
+<b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
+Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
+<b>ICLR 2025</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
+<br>
+
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
 <b>Zhengbang Zhu</b>, Minghuan Liu, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
 <b>NeurIPS 2024</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
@@ -17,11 +27,6 @@ Jingxiao Chen\*, Xinyao Li\*, Jiahang Cao\*, and <b>Zhengbang Zhu</b>, Wentao Do
 <b>DiffStitch: Boosting Offline Reinforcement Learning with Diffusion-based Trajectory Stitching</b> <br>
 Guanghe Li, Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Weinan Zhang. <br>
 <b>ICML 2024</b>. [<a href="https://arxiv.org/abs/2402.02439">paper</a>] [<a href="https://github.com/guangheli12/DiffStitch">code</a>]
-<br>
-
-<b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
-Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
-<b>ICLR 2025</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
 <br>
 
 <b>Diffusion Models for Reinforcement Learning: A Survey</b> <br>
