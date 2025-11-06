@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at [Sichuan University](https://en.scu.edu.cn/) in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. 
-
+I am a fifth-year PhD student in the Department of Computer Science and Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I completed my bachelor’s degree at [Sichuan University](https://en.scu.edu.cn/) in 2021. My research interests lie in imitation learning, reinforcement learning, and their applications in robotics. 
 
 # Selected Publications (Full list can be found [here](/publications))
 
@@ -39,7 +38,7 @@ Minghuan Liu, <b>Zhengbang Zhu</b>, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yo
 
 # Services
 
-- Reviewer for ICML 2024, NeurIPS 2024 (Top Reviewer), ICLR 2025, ICRA 2025, RSS 2025, IROS 2025
+- Reviewer for ICML 24/25, NeurIPS 24(Top Reviewer)/25, ICLR 25/26, ICRA 25/26, RSS 25, IROS 25, AISTATS 26
 - Reviewer for TPAMI, TMLR, TETCI
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r81tKg7CKp4kEP7sO3F-QiylAUyxHJ13DTud5OB1yGQ&cl=ffffff&w=300"></script>
