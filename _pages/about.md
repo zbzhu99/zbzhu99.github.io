@@ -12,6 +12,10 @@ I am a fifth-year PhD student in the Department of Computer Science and Engineer
 
 # Selected Publications (Full list can be found [here](/publications))
 
+<b>Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots</b> <br>
+Minghuan Liu\*, <b>Zhengbang Zhu\*</b>, Xiaoshen Han\*, Peng Hu\*, Haotong Lin, Xinyao Li, Jingxiao Chen, Jiafeng Xu, Yichu Yang, Yunfeng Lin, Xinghang Li, Yong Yu, Weinan Zhang, Tao Kong, Bingyi Kang. <br>
+<b>ICLR 2026</b>. [<a href="https://arxiv.org/abs/2503.05808">paper</a>] [<a href="https://github.com/ByteDance-Seed/manip-as-in-sim-suite">code</a>] [<a href="https://manipulation-as-in-simulation.github.io">website</a>]
+
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
 <b>Zhengbang Zhu</b>, Minghuan Liu, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
 <b>NeurIPS 2024</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
@@ -25,11 +29,6 @@ I am a fifth-year PhD student in the Department of Computer Science and Engineer
 <b>Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems</b> <br>
 <b>Zhengbang Zhu</b>, Rongjun Qin, Junjie Huang, Xinyi Dai, Yang Yu, Yong Yu, Weinan Zhang. <br>
 <b>ACM Transactions on Information Systems (TOIS) 2024</b>. [<a href="https://arxiv.org/abs/2210.05662">paper</a>]
-<br>
-
-<b>Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning</b> <br>
-Yixiang Shan, <b>Zhengbang Zhu</b>, Ting Long, Qifan Liang, Yi Chang, Weinan Zhang, Liang Yin. <br>
-<b>ICLR 2025</b>. [<a href="https://arxiv.org/abs/2402.02772">paper</a>]
 <br>
 
 <b>Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization</b> <br>
