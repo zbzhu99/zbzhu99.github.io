@@ -37,7 +37,7 @@ Minghuan Liu, <b>Zhengbang Zhu</b>, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yo
 
 # Services
 
-- Reviewer for ICML 24/25, NeurIPS 24(Top Reviewer)/25, ICLR 25/26, ICRA 25/26, RSS 25, IROS 25, AISTATS 26
+- Reviewer for ICML 24/25/26, NeurIPS 24(Top Reviewer)/25, ICLR 25/26, ICRA 25/26, RSS 25, IROS 25, AISTATS 26
 - Reviewer for TPAMI, TMLR, TETCI
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r81tKg7CKp4kEP7sO3F-QiylAUyxHJ13DTud5OB1yGQ&cl=ffffff&w=300"></script>
