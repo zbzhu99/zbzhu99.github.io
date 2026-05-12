@@ -7,7 +7,11 @@ author_profile: true
 
 <b>World Guidance: World Modeling in Condition Space for Action Generation</b> <br>
 Yue Su, Sijin Chen, Haixin Shi, Mingyu Liu, Zhengshen Zhang, Ningyuan Huang, Weiheng Zhong, <b>Zhengbang Zhu</b>, Yuxiao Liu, Xihui Liu <br>
-<b>arXiv Preprint</b>. [<a href="https://arxiv.org/abs/2602.22010">paper</a>]
+<b>ICML 2026</b>. [<a href="https://arxiv.org/abs/2602.22010">paper</a>] [<a href="https://github.com/Selen-Suyue/WoG">code</a>] [<a href="https://selen-suyue.github.io/WoGNet">website</a>]
+
+<b>RAD: Retrieval High-quality Demonstrations to Enhance Decision-making</b> <br>
+Lu Guo, Yixiang Shan, <b>Zhengbang Zhu</b>, Qifan Liang, Lichang Song, Ting Long, Weinan Zhang, Yi Chang <br>
+<b>ICML 2026</b>. [<a href="https://arxiv.org/abs/2507.15356">paper</a>]
 
 <b>From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors</b> <br>
 Zhengshen Zhang, Hao Li, Yalun Dai, <b>Zhengbang Zhu</b>, Lei Zhou, Chenchen Liu, Dong Wang, Francis EH Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu, Xinghang Li, Pan Zhou. <br>
