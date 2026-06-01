@@ -19,7 +19,7 @@ Zhengshen Zhang, Hao Li, Yalun Dai, <b>Zhengbang Zhu</b>, Lei Zhou, Chenchen Liu
 
 <b>Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots</b> <br>
 Minghuan Liu\*, <b>Zhengbang Zhu\*</b>, Xiaoshen Han\*, Peng Hu\*, Haotong Lin, Xinyao Li, Jingxiao Chen, Jiafeng Xu, Yichu Yang, Yunfeng Lin, Xinghang Li, Yong Yu, Weinan Zhang, Tao Kong, Bingyi Kang. <br>
-<b>ICLR 2026</b>. [<a href="https://arxiv.org/abs/2503.05808">paper</a>] [<a href="https://github.com/ByteDance-Seed/manip-as-in-sim-suite">code</a>] [<a href="https://manipulation-as-in-simulation.github.io">website</a>]
+<b>ICLR 2026</b>. [<a href="https://arxiv.org/abs/2509.02530">paper</a>] [<a href="https://github.com/ByteDance-Seed/manip-as-in-sim-suite">code</a>] [<a href="https://manipulation-as-in-simulation.github.io">website</a>]
 
 <b>Drivegen: Towards Infinite Diverse Traffic Scenarios with Large Models</b> <br>
 Shenyu Zhang, Jiaguo Tian, <b>Zhengbang Zhu</b>, Shan Huang, Jucheng Yang, Weinan Zhang. <br>
